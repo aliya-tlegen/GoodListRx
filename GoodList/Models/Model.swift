@@ -18,3 +18,4 @@ struct Task {
     let title: String
     let priority: Priority
 }
+

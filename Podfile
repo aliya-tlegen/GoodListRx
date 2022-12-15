@@ -7,4 +7,5 @@ target 'GoodList' do
 
   # Pods for GoodList
   pod 'RxSwift'
+  pod 'RxCocoa'
 end
